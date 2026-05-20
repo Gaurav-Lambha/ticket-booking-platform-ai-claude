@@ -18,12 +18,6 @@
 - Clean architecture
 
 
-# Claude Prompt Example — Ticket Booking Platform
-
-Use this prompt inside [Claude Code](https://www.anthropic.com/claude-code?utm_source=chatgpt.com) or [Cursor IDE](https://www.cursor.com/?utm_source=chatgpt.com) with Claude Sonnet.
-
----
-
 ## Master Claude Prompt
 
 ```txt
