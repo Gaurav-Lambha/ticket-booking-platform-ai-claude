@@ -2,7 +2,7 @@
 
 
 - TurboRepo monorepo
-- Setup claude.md (code instration and PR review md file code quality
+- Setup claude.md 
 - React frontend with Vite
 - Node.js Express backend
 - MongoDB with Mongoose
